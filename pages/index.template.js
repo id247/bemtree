@@ -1,5 +1,5 @@
 const vars = {
-	meta: {
+    meta: {
         title: 'Главная',
     },
     menu: {
